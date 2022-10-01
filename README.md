@@ -1,6 +1,1 @@
-# Final project 
-
-Team : import teamname
-
-Team members: Aditya, Raghu , Ravi
-
+Course management web application
